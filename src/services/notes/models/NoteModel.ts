@@ -8,7 +8,7 @@ export class NoteModel implements NoteModelRef {
       {
         from: 'Patricio Tabilo',
         to: 'Buk',
-        message: 'I want to be part of your team!',
+        message: 'This is an awesome note!',
       },
     ];
   }

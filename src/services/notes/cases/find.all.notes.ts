@@ -3,7 +3,7 @@ import { NoteRepositoryRef } from '../interfaces/note.repo.ref';
 
 /*
  * Se define el caso de uso, aca se debe imnplementar se implementan procesos
- * especificos debido a la inyeccion de dependencias el caso de uso queda aislado del
+ * especificos, debido a la inyeccion de dependencias el caso de uso queda aislado del
  * modelo, facilmente se puede testear de manera unitaria usando mocks
  */
 export class FindAllNotes {
